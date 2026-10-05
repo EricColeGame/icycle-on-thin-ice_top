@@ -9,7 +9,14 @@
   "nav": {
     "home": "Home",
     "menu": "Menu",
-    "toggleTheme": "Toggle theme"
+    "toggleTheme": "Toggle theme",
+    "guide": "Guide",
+    "levels": "Levels",
+    "locations": "Locations",
+    "platforms": "Platforms",
+    "features": "Features",
+    "history": "History",
+    "tips": "Tips"
   },
   "home": {
     "meta": {
@@ -441,7 +448,34 @@
       "secondary": "Play on Steam"
     }
   },
-  "bosses": {},
+  "guide": {
+    "overviewTitle": "Icycle on Thin Ice Guide",
+    "overviewDescription": "Browse every Icycle on Thin Ice guide, from beginner movement tips to complete walkthroughs and speedrun strategies for Dennis's frozen journey."
+  },
+  "levels": {
+    "overviewTitle": "Icycle on Thin Ice Levels",
+    "overviewDescription": "Step-by-step level breakdowns for Icycle on Thin Ice, covering early stages, tricky mid-game platforming, and the toughest late-game challenges."
+  },
+  "locations": {
+    "overviewTitle": "Icycle on Thin Ice Locations",
+    "overviewDescription": "Location guides for every chapter of Icycle on Thin Ice, with hazard notes, collectible routes, and survival tips for each frozen area."
+  },
+  "platforms": {
+    "overviewTitle": "Icycle on Thin Ice Platforms",
+    "overviewDescription": "Find out where to play Icycle on Thin Ice, including Steam, mobile, and browser options, plus availability details and platform differences."
+  },
+  "features": {
+    "overviewTitle": "Icycle on Thin Ice Features",
+    "overviewDescription": "Explore the features that define Icycle on Thin Ice, including badges, bonus levels, downloadable content, hard mode, and the Golden Allure challenge."
+  },
+  "history": {
+    "overviewTitle": "Icycle on Thin Ice History & Updates",
+    "overviewDescription": "Follow the development and release history of Icycle on Thin Ice, from its original Flash debut to modern updates, trailers, and PC releases."
+  },
+  "tips": {
+    "overviewTitle": "Icycle on Thin Ice Tips",
+    "overviewDescription": "Practical Icycle on Thin Ice tips for momentum control, tricky levels, and hidden secrets to help you clear every stage with confidence."
+  },
   "shared": {
     "wikiNavigation": "Wiki Navigation",
     "activeCodes": "Active Codes",
@@ -470,10 +504,10 @@
     "playGame": "Play on Steam",
     "officialWebsite": "Official Website",
     "steamCommunity": "Steam Community",
-    "beginnerGuide": "Beginner Guide",
-    "raceGuides": "Race Guides",
-    "bossGuides": "Boss Guides",
-    "buildGuide": "Build Guide",
+    "guide": "Getting Started",
+    "levels": "Level Guides",
+    "locations": "Location Guides",
+    "features": "Features & Badges",
     "privacyPolicy": "Privacy Policy",
     "termsOfService": "Terms of Service"
   }

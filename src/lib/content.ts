@@ -237,39 +237,57 @@ export interface NavGroup {
 
 // 分组标题映射：slug → 人类可读标题（默认英文）
 const GROUP_TITLES: Record<string, string> = {
-  bosses: "Bosses",
-  races: "Races",
-  maps: "Maps & Areas",
-  skills: "Skills",
-  codes: "Codes",
   guide: "Getting Started",
-  "tier-list": "Tier Lists",
-};
-
-// 日文分组标题映射
-const GROUP_TITLES_JA: Record<string, string> = {
-  bosses: "ボス",
-  races: "種族",
-  maps: "マップ & エリア",
-  skills: "スキル",
-  codes: "コード",
-  guide: "初心者ガイド",
-  "tier-list": "Tier List",
+  levels: "Levels",
+  locations: "Locations",
+  platforms: "Platforms",
+  features: "Features",
+  history: "History & Updates",
+  tips: "Tips & Tricks",
 };
 
 // locale → 分组标题映射
 const GROUP_TITLES_BY_LOCALE: Record<string, Record<string, string>> = {
-  ja: GROUP_TITLES_JA,
+  de: {
+    guide: "Erste Schritte",
+    levels: "Level",
+    locations: "Orte",
+    platforms: "Plattformen",
+    features: "Funktionen",
+    history: "Geschichte & Updates",
+    tips: "Tipps & Tricks",
+  },
+  fr: {
+    guide: "Premiers pas",
+    levels: "Niveaux",
+    locations: "Lieux",
+    platforms: "Plateformes",
+    features: "Fonctionnalités",
+    history: "Histoire & Mises à jour",
+    tips: "Astuces",
+  },
+  es: {
+    guide: "Primeros pasos",
+    levels: "Niveles",
+    locations: "Ubicaciones",
+    platforms: "Plataformas",
+    features: "Características",
+    history: "Historia y actualizaciones",
+    tips: "Consejos",
+  },
 };
 
 // locale → "Overview" 翻译
 const OVERVIEW_LABEL_BY_LOCALE: Record<string, string> = {
-  ja: "一覧",
+  en: "Overview",
+  de: "Übersicht",
+  fr: "Aperçu",
+  es: "Resumen",
 };
 
 // 分组排序顺序
 const GROUP_ORDER: string[] = [
-  "guide", "races", "bosses", "maps", "skills", "codes", "tier-list",
+  "guide", "levels", "locations", "platforms", "features", "history", "tips",
 ];
 
 /**

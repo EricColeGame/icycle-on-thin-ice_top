@@ -9,6 +9,8 @@ export interface SiteConfig {
   gameUrl?: string;
   heroVideoId?: string;
   social?: {
+    website?: string;
+    steam?: string;
     discord?: string;
     youtube?: string;
     twitter?: string;
@@ -25,9 +27,14 @@ export const siteConfig: SiteConfig = {
   tagline: "Walkthroughs, Levels, Collectibles & Achievements",
   description: "A fan-made Icycle on Thin Ice wiki with level walkthroughs, collectible guides, achievements, and gameplay tips for mastering every frozen challenge.",
   url: process.env.NEXT_PUBLIC_SITE_URL || "https://icycle-on-thin-ice.top",
-  supportEmail: `support@${new URL(process.env.NEXT_PUBLIC_SITE_URL || "https://icycle-on-thin-ice.top").hostname.replace(/^www\./, "")}`,
+  supportEmail: "support@icycle-on-thin-ice.top",
   gameUrl: "https://store.steampowered.com/app/658990/Icycle_On_Thin_Ice/",
-  heroVideoId: "4sQwgPwHuFM", // Icycle: On Thin Ice PC gameplay walkthrough
+  heroVideoId: "Vr4OXIvRXsw", // Icycle On Thin Ice (Full Game, No Commentary)
+  social: {
+    website: "https://www.dampgnat.com/icycleonthinice/",
+    steam: "https://steamcommunity.com/app/658990/",
+    twitter: "https://twitter.com/dampgnat",
+  },
   locales: ["en", "es", "pt", "de", "fr"],
   defaultLocale: "en",
 };

@@ -43,22 +43,22 @@
         {
           "number": "1",
           "title": "Beginner Guide",
-          "description": "Master the Spirit World from day one with our comprehensive beginner guide covering controls, combat, and early progression."
+          "description": "Learn Dennis's momentum physics from the very first level: how to pedal, hop, brake, and open the umbrella to glide across collapsing ice."
         },
         {
           "number": "2",
-          "title": "Fastest Leveling",
-          "description": "Dominate early game and max your progression with the most efficient leveling routes and strategies."
+          "title": "Upgrades & Gear",
+          "description": "Spend your first Ice Shards wisely on the Vacuum and upgraded umbrellas that make shard collecting and long glides far easier."
         },
         {
           "number": "3",
-          "title": "Best Farming Spots",
-          "description": "Maximize your Soul Essence and EXP gains with optimal farming locations for every stage."
+          "title": "Collectibles & Ice Shards",
+          "description": "Track down hidden ice flakes, shard clusters, and outfit unlocks tucked behind breakable walls and alternate drop-offs."
         },
         {
           "number": "4",
-          "title": "How to Extract",
-          "description": "Learn the best methods and locations for extracting resources in Icycle on Thin Ice."
+          "title": "Badges & Achievements",
+          "description": "Clear every Flawless Run, Collector's Sweep, and Speed Demon badge to earn shard bundles and full completion."
         }
       ]
     },
@@ -66,237 +66,339 @@
       "eyebrow": "Popular Pages",
       "title": "Trending Now",
       "quickLinks": [
-        "Hollow Progression",
-        "Fastest Leveling",
-        "Spirit Charms",
-        "All Boss Guides"
+        "Momentum Basics",
+        "Ice Shard Farming",
+        "Badge Challenges",
+        "Bonus Levels"
       ],
       "cards": [
         {
           "badge": "Beginner",
           "title": "Beginner Guide",
-          "description": "Everything you need from your first login to mastering the basics of combat and progression.",
-          "href": "/beginner-guide"
+          "description": "Everything you need from the first pedal to gliding across collapsing ice with control.",
+          "href": "/guide/icycle-on-thin-ice-guide"
         },
         {
           "badge": "Updated",
-          "title": "Active Codes",
-          "description": "All working codes with rewards redeem before they expire.",
-          "href": "/codes"
+          "title": "Full Walkthrough",
+          "description": "Chapter-by-chapter route guidance for every collapsing bridge and dream stage.",
+          "href": "/guide/icycle-on-thin-ice-walkthrough"
         },
         {
           "badge": "Updated",
-          "title": "Equipment Database",
-          "description": "94 items across 5 slots complete gear database with stats, rarity, and sources.",
-          "href": "/equipment"
+          "title": "Level List & Chapters",
+          "description": "Every stage grouped by chapter, hazard type, and difficulty.",
+          "href": "/levels/icycle-on-thin-ice-levels"
         },
         {
           "badge": "Popular",
-          "title": "Which Race Should You Pick?",
-          "description": "Shinigami, Quincy, or Hollow compare all three and find your perfect playstyle.",
-          "href": "/races/best-race"
+          "title": "Badges Guide",
+          "description": "Flawless, Collector, Speed Demon, and stunt badges explained with rewards.",
+          "href": "/features/icycle-on-thin-ice-badges"
         },
         {
           "badge": "New",
-          "title": "Enemies & Monsters",
-          "description": "23 enemy types across 5 regions drops, locations, and farming tips.",
-          "href": "/enemies"
+          "title": "Bonus Levels",
+          "description": "Hidden dream stages, unlock criteria, and the rewards waiting inside.",
+          "href": "/features/icycle-on-thin-ice-bonus-levels"
         },
         {
           "badge": "Popular",
-          "title": "Boss Locations & Drops",
-          "description": "Every boss location, drop table, and respawn timer in one reference.",
-          "href": "/boss-locations-drops-respawn-times"
+          "title": "Hard Mode Guide",
+          "description": "Sparse checkpoints, faster collapses, and the momentum control they demand.",
+          "href": "/features/icycle-on-thin-ice-hard-mode"
         },
         {
           "badge": "Popular",
-          "title": "Best Builds",
-          "description": "Optimal stat allocation, skill tree picks, and Charm combos for every playstyle.",
-          "href": "/builds/best-builds"
+          "title": "Location 9 Walkthrough",
+          "description": "A benchmark stage of disintegrating ledges, gusts, and gravity traps.",
+          "href": "/locations/icycle-on-thin-ice-location-9"
         },
         {
           "badge": "New",
-          "title": "Shikai Tier List",
-          "description": "All 6 Shinigami Shikai types ranked by PvP and PvE performance.",
-          "href": "/tier-list/shikai"
+          "title": "Crystal Caves Tips",
+          "description": "Survive reflective caverns, falling stalactites, and brittle ice sheets.",
+          "href": "/tips/icycle-on-thin-ice-crystal-caves"
         },
         {
           "badge": "New",
-          "title": "World Events Guide",
-          "description": "Supply Caches, Raids, and endgame world events with rare rewards.",
-          "href": "/world-events"
+          "title": "Steam & PC Version",
+          "description": "Platform details for the enhanced PC and Mac edition of the game.",
+          "href": "/platforms/icycle-on-thin-ice-steam"
         }
       ]
     },
     "aboutGame": {
       "title": "What is Icycle on Thin Ice?",
       "paragraphs": [
-        "Icycle on Thin Ice is a stylized fighting RPG on Roblox inspired by the Bleach anime universe. Choose from three playable races Shinigami, Quincy, or Hollow each with unique progression systems, unlockable abilities, and evolution paths. Master over 130 skills as you fight your way to the level 100 cap.",
-        "Whether you're unlocking your first Shikai, evolving from a base Hollow into an Arrancar, or grinding Quincy Lieutenant missions, our wiki covers every system with detailed guides, data tables, and step-by-step walkthroughs."
+        "Icycle on Thin Ice is a physics-based precision platformer from indie studio Damp Gnat. You play as Dennis, a shivering cyclist in his underwear pedaling a tiny bicycle through a surreal, post-apocalyptic ice age in search of love.",
+        "Every stage is built around momentum: the bike carries real inertia across packed snow and slick blue ice, and Dennis's umbrella doubles as a glider that turns deadly falls into controlled crossings. Collect Ice Shards, buy upgrades and outfits, earn badges, and unlock hidden bonus levels as the frozen dreamscape bends around you."
       ],
       "stats": [
         {
           "label": "Developer",
-          "value": "Midnight Continent"
-        },
-        {
-          "label": "Platform",
-          "value": "Roblox"
+          "value": "Damp Gnat"
         },
         {
           "label": "Genre",
-          "value": "Fighting RPG"
+          "value": "Physics Platformer"
         },
         {
-          "label": "Visits",
-          "value": "12.6M+"
+          "label": "Platforms",
+          "value": "PC, Mac, Mobile"
         },
         {
-          "label": "Favorites",
-          "value": "243K+"
+          "label": "Currency",
+          "value": "Ice Shards"
         },
         {
-          "label": "Total Skills",
-          "value": "130+"
+          "label": "Badge Types",
+          "value": "5"
         },
         {
-          "label": "Level Cap",
-          "value": "100"
+          "label": "Bonus Levels",
+          "value": "5"
         }
       ],
       "cta": "Explore All Guides"
     },
     "explore": {
       "title": "Explore Icycle on Thin Ice Wiki",
-      "description": "Master your seafood restaurant on Roblox with essential progression guides, active codes, complete fish & recipe catalogs, and optimal upgrade strategies.",
+      "description": "Master Dennis's frozen journey with momentum tips, level walkthroughs, collectible routes, badge strategies, and hidden bonus level unlocks.",
       "modules": [
         {
           "order": 1,
-          "name": "Icycle on Thin Ice Working Codes",
-          "description": "Redeem the latest working codes to claim free coins, gems, exclusive cosmetics, and boost items before they expire.",
-          "href": "/codes/icycle-on-thin-ice-codes",
-          "displayType": "code-box",
+          "name": "Icycle On Thin Ice Beginner Guide",
+          "description": "Introduce the core controls, movement, ice hazards, collectibles, and basic progression so new players can understand how to start each level and survive the precision-platforming sections.",
+          "href": "/guide/icycle-on-thin-ice-guide",
+          "displayType": "step-by-step",
           "highlights": [
             {
-              "label": "Code",
-              "detail": "FULLRELEASE — Free Cash & Rewards"
+              "label": "1",
+              "detail": "Feather the pedals instead of holding them to keep control on slick ice and steep slopes"
             },
             {
-              "label": "Code",
-              "detail": "75KLIKES — Exclusive Ability Reroll"
+              "label": "2",
+              "detail": "Tap jump for a short hop, then hold jump in mid-air to open the umbrella and glide"
             },
             {
-              "label": "Tip",
-              "detail": "Codes are case-sensitive; enter them in the Settings menu"
+              "label": "3",
+              "detail": "Use the reverse direction as a brake early, since ice makes stopping distances much longer"
+            },
+            {
+              "label": "4",
+              "detail": "Collect floating Ice Chips along the main path to spend later in the wardrobe shop"
+            },
+            {
+              "label": "5",
+              "detail": "Watch brittle ledges and icicles, because they collapse moments after your wheels touch them"
+            },
+            {
+              "label": "6",
+              "detail": "Reach the exit gate, then replay the stage to clean up missed shards and badges"
             }
           ]
         },
         {
           "order": 2,
-          "name": "Beginner Guide: How to Start & Serve Customers",
-          "description": "Step-by-step beginner guide covering customer ordering, food prep, station management, and cashier checkout mechanics.",
-          "href": "/guide/icycle-on-thin-ice-beginner-guide",
-          "displayType": "feature-cards",
+          "name": "Icycle On Thin Ice Walkthrough",
+          "description": "Provide level-by-level guidance for navigating the game's locations, solving environmental challenges, and finding important collectibles across every chapter.",
+          "href": "/guide/icycle-on-thin-ice-walkthrough",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Step 1",
-              "detail": "Take customer order at the stall front"
+              "label": "The Thaw",
+              "detail": "Opening chapter of collapsing snowbanks and falling icicles that teaches basic cycling"
             },
             {
-              "label": "Step 2",
-              "detail": "Cook seafood on the grill or boil station"
+              "label": "Nostalgia",
+              "detail": "Retro living rooms with floating televisions and high-arc trampoline jumps"
             },
             {
-              "label": "Step 3",
-              "detail": "Serve warm food promptly for maximum customer tips"
+              "label": "Dreams",
+              "detail": "Psychedelic dream stages where platforms dissolve beneath Dennis's tires"
+            },
+            {
+              "label": "Freeze",
+              "detail": "Industrial chapter of rusted cogs, crushing pistons, and steam-vent wind currents"
+            },
+            {
+              "label": "Abyss",
+              "detail": "Final geometric void where gravity inverts and laser-eyed statues track your path"
+            },
+            {
+              "label": "Locations",
+              "detail": "27 main locations plus hidden dream stages, each with its own hazard rhythm"
             }
           ]
         },
         {
           "order": 3,
-          "name": "Seafood & Fish Tier List",
-          "description": "Complete breakdown of all catchable fish and seafood ranked by market value, customer demand, and profit margins.",
-          "href": "/seafood/icycle-on-thin-ice-tier-list",
+          "name": "Icycle On Thin Ice Locations",
+          "description": "Organize the game's 27 main locations and additional dream levels into an easy-to-scan progression guide, ranked by difficulty tier.",
+          "href": "/locations/icycle-on-thin-ice-location-9",
           "displayType": "tier-grid",
           "highlights": [
             {
-              "label": "S Tier",
-              "detail": "King Crab · Lobster Boil — Highest profit per customer"
+              "label": "S",
+              "detail": "The Frozen Heart — inverting gravity and laser-eyed statues demand expert momentum control"
             },
             {
-              "label": "A Tier",
-              "detail": "Salmon · Jumbo Shrimp · Tuna Steak — Reliable fast earners"
+              "label": "A",
+              "detail": "Industrial Freeze — crushing pistons and steam vents punish slow reactions"
             },
             {
-              "label": "B Tier",
-              "detail": "Clams · Oysters · Squid — Great mid-game margin"
+              "label": "B",
+              "detail": "Subconscious Dreams — dissolving platforms and precision umbrella glides"
             },
             {
-              "label": "C Tier",
-              "detail": "Common Sardines · Small Crab — Starter seafood"
+              "label": "C",
+              "detail": "The Thaw — the opening snowbanks that teach cycling, hopping, and braking"
             }
           ]
         },
         {
           "order": 4,
-          "name": "Best Upgrades Progression",
-          "description": "Optimal order to spend your cash: expand kitchen stations, hire waitstaff, speed up grills, and upgrade seating.",
-          "href": "/upgrades/icycle-on-thin-ice-best-upgrades",
-          "displayType": "feature-cards",
+          "name": "Icycle On Thin Ice Collectibles",
+          "description": "Cover collectible-related objectives, hidden items, and the requirements for unlocking additional content such as the vacuum cleaner and umbrella upgrades.",
+          "href": "/guide/icycle-on-thin-ice-gameplay",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Priority 1",
-              "detail": "Cooking Speed & Extra Burners — Clears customer backlog"
+              "label": "Shards",
+              "detail": "Ice Shards scattered along main and alternate paths serve as the game's currency"
             },
             {
-              "label": "Priority 2",
-              "detail": "Customer Seating Capacity — Increases simultaneous diners"
+              "label": "Chips",
+              "detail": "Floating Ice Chips often hover over instant-death pits and demand careful glides"
             },
             {
-              "label": "Priority 3",
-              "detail": "Auto-Chef / Waiter Staff — Passive hands-free revenue"
+              "label": "Vacuum",
+              "detail": "The Ice Magnet upgrade pulls nearby shards in and removes risky pinpoint jumps"
+            },
+            {
+              "label": "Outfits",
+              "detail": "Wardrobe shop cosmetics and accessories unlock as your shard total grows"
+            },
+            {
+              "label": "Letters",
+              "detail": "Hidden love letters sit behind breakable walls in the later dream stages"
             }
           ]
         },
         {
           "order": 5,
-          "name": "How to Get Cash Fast",
-          "description": "Top money-making strategies, VIP evaluation, tip maximization, and high-efficiency serving tips.",
-          "href": "/guide/icycle-on-thin-ice-how-to-get-cash-fast",
-          "displayType": "feature-cards",
+          "name": "Icycle On Thin Ice Achievements",
+          "description": "List the game's Steam achievements and explain the general requirements for completing them, so completionists can plan a structured route.",
+          "href": "/features/icycle-on-thin-ice-badges",
+          "displayType": "code-cards",
           "highlights": [
             {
-              "label": "Combo",
-              "detail": "Chain orders quickly to build the Customer Happiness multiplier"
+              "label": "Flawless",
+              "detail": "Clear a level with zero deaths or resets, worth 150 to 300 Ice Shards"
             },
             {
-              "label": "High Margin",
-              "detail": "Focus high-tier seafood boils during peak customer rush hours"
+              "label": "Collector",
+              "detail": "Gather 100% of the hidden ice flakes in a stage for 100 to 200 Shards"
             },
             {
-              "label": "Reinvest",
-              "detail": "Keep 20% cash reserve for fresh ingredient replenishment"
+              "label": "Speed Demon",
+              "detail": "Finish the stage under a strict time limit for 100 to 250 Shards"
+            },
+            {
+              "label": "Stunt",
+              "detail": "Perform a stage-specific quirky action, such as kissing a frozen fish"
+            },
+            {
+              "label": "No Umbrella",
+              "detail": "Reach the exit without deploying the umbrella, the toughest badge of all"
             }
           ]
         },
         {
           "order": 6,
-          "name": "Plot Expansion & Stand Customization",
-          "description": "Unlock bigger land plots, arrange optimal cooking layouts, and add high-value decorative upgrades.",
-          "href": "/upgrades/icycle-on-thin-ice-how-to-upgrade-plot",
-          "displayType": "feature-cards",
+          "name": "Icycle On Thin Ice Secrets",
+          "description": "Collect information about hidden areas, bonus dream levels, unusual interactions, and less obvious unlock requirements.",
+          "href": "/features/icycle-on-thin-ice-bonus-levels",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Plot 1",
-              "detail": "Starter Beach Stand (3 Tables, 1 Grill)"
+              "label": "Retro",
+              "detail": "The original 8-bit Icycle returns after collecting 80 shards in Chapters 1-3"
             },
             {
-              "label": "Plot 2",
-              "detail": "Boardwalk Restaurant (6 Tables, 2 Grills, Boil Station)"
+              "label": "Drift",
+              "detail": "Subconscious Drift opens by finishing Chapter 7 without umbrella rewinds"
             },
             {
-              "label": "Plot 3",
-              "detail": "Luxury Pier Seafood Pavilion (Full Automation & VIP Seating)"
+              "label": "Time Trial",
+              "detail": "The Big Freeze time attack unlocks with 3-star ratings on five straight levels"
+            },
+            {
+              "label": "Origami",
+              "detail": "Paper Dream Gauntlet hides three love letters behind breakable walls"
+            },
+            {
+              "label": "Abyss",
+              "detail": "Abyssal Descent needs the Lantern Cap to survive the pitch-black cavern"
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Icycle On Thin Ice Missions",
+          "description": "Explain the game's mission and challenge structure, including how completing objectives contributes to unlocking the original Icycle content.",
+          "href": "/guide/icycle-on-thin-ice-full-game",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Chapters",
+              "detail": "Five themed chapters move from frozen ruins into Dennis's subconscious"
+            },
+            {
+              "label": "Story",
+              "detail": "Every stage pushes Dennis closer to the frozen figure he is chasing"
+            },
+            {
+              "label": "Ending",
+              "detail": "The finale reveals his beloved as an inanimate ice sculpture"
+            },
+            {
+              "label": "Speedrun",
+              "detail": "Time-attack routes reward clean momentum lines over cautious play"
+            },
+            {
+              "label": "Rewards",
+              "detail": "Clearing objectives and shard milestones unlock outfits and extra stages"
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Icycle On Thin Ice Tips",
+          "description": "Provide concise gameplay tips for handling slippery terrain, precision movement, environmental hazards, and exploration.",
+          "href": "/tips/icycle-on-thin-ice-crystal-caves",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Momentum",
+              "detail": "Build speed on downhills and preserve it instead of braking constantly"
+            },
+            {
+              "label": "Glide",
+              "detail": "Tap the umbrella in short pulses to fine-tune landings in tight tunnels"
+            },
+            {
+              "label": "Traction",
+              "detail": "Packed snow slows you down while blue ice barely slows you at all"
+            },
+            {
+              "label": "Wind",
+              "detail": "Ride updrafts to reach high shard clusters, then close the umbrella to drop"
+            },
+            {
+              "label": "Pacing",
+              "detail": "Never idle on brittle bridges or beneath hanging icicles"
             }
           ]
         }
@@ -308,23 +410,27 @@
       "items": [
         {
           "question": "What is Icycle on Thin Ice?",
-          "answer": "Icycle on Thin Ice is a free-to-play fighting RPG on Roblox based on the Bleach anime. You choose one of game mechanics Shinigami (Soul Reaper), Quincy, or Hollow each with unique progression, combat abilities, and evolution systems. The game features 130+ skills, a level 100 cap, boss fights, and deep build customization."
+          "answer": "Icycle on Thin Ice is a physics-based precision platformer by Damp Gnat. You play as Dennis, a shivering cyclist pedaling a tiny bicycle through a surreal frozen apocalypse in search of love, balancing momentum, traction, and umbrella glides across collapsing ice."
         },
         {
-          "question": "Which race should beginners pick?",
-          "answer": "Shinigami is the most straightforward starter race, while Hollow and Quincy offer more specialized progression routes. Compare their abilities before committing."
+          "question": "Who developed Icycle on Thin Ice?",
+          "answer": "It was created by the indie studio Damp Gnat. The game began as the mobile title Icycle and was later expanded into the enhanced Icycle: On Thin Ice released for PC and Mac."
         },
         {
-          "question": "What is the current level cap?",
-          "answer": "The current level cap is 100, with more than 130 skills available across trees and race progression systems."
+          "question": "How do I control Dennis?",
+          "answer": "Pedal with the direction keys, tap jump for a short hop, and hold jump in mid-air to open the umbrella and glide. Reverse direction to brake, but start early because ice makes stopping distances long."
         },
         {
-          "question": "Where do I find active codes?",
-          "answer": "Use the Codes page for working codes, rewards, expiration notes, and redeem instructions."
+          "question": "What are Ice Shards used for in Icycle on Thin Ice?",
+          "answer": "Ice Shards are the in-game currency. You collect them across each stage and spend them in the wardrobe shop on outfits, accessories, and functional gear such as the Vacuum and upgraded umbrellas."
         },
         {
-          "question": "Are boss guides updated?",
-          "answer": "Boss pages are organized with spawn notes, attack patterns, strategies, drop tables, and related next steps for progression."
+          "question": "How do I unlock bonus levels?",
+          "answer": "Bonus stages in Icycle on Thin Ice unlock through milestones such as collecting 80 hidden shards in Chapters 1-3, earning 3-star ratings on five straight levels, or finding hidden love letters behind breakable walls."
+        },
+        {
+          "question": "Does Icycle on Thin Ice have a hard mode?",
+          "answer": "Yes. Hard mode places checkpoints farther apart, makes fragile platforms collapse in under a second, and removes most tolerance for mistakes, so momentum control matters even more."
         }
       ]
     },
